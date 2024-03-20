@@ -1,2 +1,1 @@
-# quarkus_minikube_sc
-start here
+# QUARKUS Projects Examples
